@@ -1,0 +1,11 @@
+.App{
+    margin: auto;
+    width: 500px;
+    border: solid 1px black;
+    flex-direction: column;
+    display: flex;
+    border-radius: 10px;
+    font-style: italic;
+
+}
+
